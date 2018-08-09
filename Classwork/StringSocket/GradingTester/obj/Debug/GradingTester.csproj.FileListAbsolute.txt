@@ -1,0 +1,13 @@
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\GradingTester.dll
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\GradingTester.pdb
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\SS.dll
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\StringSocket.dll
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\StringSocket.pdb
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\StringSocket.xml
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\bin\Debug\SS.xml
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\obj\Debug\GradingTester.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\obj\Debug\GradingTester.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\obj\Debug\GradingTester.csproj.CopyComplete
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\obj\Debug\GradingTester.dll
+C:\Users\Ben\source\repos\DefinitelyNotBorderlands3\StringSocket\GradingTester\obj\Debug\GradingTester.pdb

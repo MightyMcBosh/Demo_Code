@@ -1,0 +1,13 @@
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.Properties.Resources.resources
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.csproj.GenerateResource.Cache
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\bin\Debug\BoggleClient.exe.config
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\bin\Debug\BoggleClient.exe
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\bin\Debug\BoggleClient.pdb
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.exe
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.pdb
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.BoggleClient.resources
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.JoinGameDialog.resources
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\PS8\BoggleClient\obj\Debug\BoggleClient.csproj.CopyComplete

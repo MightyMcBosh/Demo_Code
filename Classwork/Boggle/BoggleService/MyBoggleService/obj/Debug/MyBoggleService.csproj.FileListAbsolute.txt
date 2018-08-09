@@ -1,0 +1,11 @@
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\MyBoggleService.exe.config
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\MyBoggleService.exe
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\MyBoggleService.pdb
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\obj\Debug\MyBoggleService.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\obj\Debug\MyBoggleService.exe
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\obj\Debug\MyBoggleService.pdb
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\SS.dll
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\bin\Debug\SS.xml
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\obj\Debug\MyBoggleService.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Source\Repos\definitelynotborderlands3\Spreadsheet\BoggleService\MyBoggleService\obj\Debug\MyBoggleService.csproj.CopyComplete
